@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="14.72" viewBox="0 0 16 14.72">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+  </defs>
+  <g id="Like_Icon" data-name="Like Icon" transform="translate(0 -0.013)">
+    <path id="Shape" d="M8,14.72,6.88,13.6C2.72,9.92,0,7.44,0,4.4A4.338,4.338,0,0,1,4.4,0,4.808,4.808,0,0,1,8,1.68,4.808,4.808,0,0,1,11.6,0,4.338,4.338,0,0,1,16,4.4c0,3.04-2.72,5.52-6.88,9.2Z" transform="translate(0 0.013)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

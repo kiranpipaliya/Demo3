@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="299" viewBox="0 0 375 299">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Mask" width="375" height="299" rx="10" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Path_2" x="-20.7" y="84.286" width="444.174" height="104.076" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="168" y="82" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-2" x="238" y="152" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-3" x="308" y="92" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-4" x="99" y="126" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-5" x="29" y="133" width="40" height="40" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="yearlybg" transform="translate(-5)">
+    <g id="Bg" transform="translate(5)">
+      <rect id="Mask-2" data-name="Mask" width="375" height="299" rx="10" fill="url(#linear-gradient)"/>
+      <g id="Bg-2" data-name="Bg" clip-path="url(#clip-path)">
+        <rect id="Rectangle" width="800" height="600" rx="100" transform="translate(-70.736 -707) rotate(45)" fill="rgba(37,143,224,0.2)"/>
+        <rect id="Rectangle-2" data-name="Rectangle" width="800" height="400" rx="100" transform="translate(310.843 -440) rotate(45)" fill="rgba(37,143,224,0.2)"/>
+        <rect id="Rectangle-3" data-name="Rectangle" width="800" height="400" rx="100" transform="translate(-69.157 283) rotate(45)" fill="rgba(37,143,224,0.2)"/>
+        <rect id="Rectangle-4" data-name="Rectangle" width="800" height="400" rx="100" transform="translate(-384 925.685) rotate(-45)" fill="rgba(37,143,224,0.2)"/>
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_2)">
+          <path id="Path_2-2" data-name="Path 2" d="M0,0,54,53l70-7L193,2l70,70,70-60,80,43" transform="translate(-5 90)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(0 41)">
+      <g id="Bg-3" data-name="Bg" transform="translate(158)">
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="70" height="218" rx="10" transform="translate(0 0)" opacity="0.1"/>
+      </g>
+      <g id="Dots" transform="translate(49 26)">
+        <g transform="matrix(1, 0, 0, 1, -44, -67)" filter="url(#Rectangle_3)">
+          <g id="Rectangle_3-6" data-name="Rectangle 3" transform="translate(183 87)" fill="#0088e5" stroke="#fff" stroke-miterlimit="10" stroke-width="2">
+            <rect width="10" height="10" rx="5" stroke="none"/>
+            <rect x="1" y="1" width="8" height="8" rx="4" fill="none"/>
+          </g>
+        </g>
+        <g id="Rectangle_3-7" data-name="Rectangle 3" transform="translate(129 10)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.3">
+          <rect width="30" height="30" rx="15" stroke="none"/>
+          <rect x="0.5" y="0.5" width="29" height="29" rx="14.5" fill="none"/>
+        </g>
+        <g id="Rectangle_3-8" data-name="Rectangle 3" transform="translate(119)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" opacity="0.3">
+          <rect width="50" height="50" rx="25" stroke="none"/>
+          <rect x="0.5" y="0.5" width="49" height="49" rx="24.5" fill="none"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -44, -67)" filter="url(#Rectangle_3-2)">
+          <g id="Rectangle_3-9" data-name="Rectangle 3" transform="translate(253 157)" fill="#0088e5" stroke="#fff" stroke-miterlimit="10" stroke-width="2">
+            <rect width="10" height="10" rx="5" stroke="none"/>
+            <rect x="1" y="1" width="8" height="8" rx="4" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -44, -67)" filter="url(#Rectangle_3-3)">
+          <g id="Rectangle_3-10" data-name="Rectangle 3" transform="translate(323 97)" fill="#0088e5" stroke="#fff" stroke-miterlimit="10" stroke-width="2">
+            <rect width="10" height="10" rx="5" stroke="none"/>
+            <rect x="1" y="1" width="8" height="8" rx="4" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -44, -67)" filter="url(#Rectangle_3-4)">
+          <g id="Rectangle_3-11" data-name="Rectangle 3" transform="translate(114 131)" fill="#0088e5" stroke="#fff" stroke-miterlimit="10" stroke-width="2">
+            <rect width="10" height="10" rx="5" stroke="none"/>
+            <rect x="1" y="1" width="8" height="8" rx="4" fill="none"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -44, -67)" filter="url(#Rectangle_3-5)">
+          <g id="Rectangle_3-12" data-name="Rectangle 3" transform="translate(44 138)" fill="#0088e5" stroke="#fff" stroke-miterlimit="10" stroke-width="2">
+            <rect width="10" height="10" rx="5" stroke="none"/>
+            <rect x="1" y="1" width="8" height="8" rx="4" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

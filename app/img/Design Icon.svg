@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.658" height="39.658" viewBox="0 0 39.658 39.658">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+  </defs>
+  <g id="Design_Icon" data-name="Design Icon" transform="translate(-0.171 -0.205)">
+    <path id="Shape" d="M0,9.572a9.573,9.573,0,1,1,9.572,9.573A9.6,9.6,0,0,1,0,9.572Z" transform="translate(10.427 10.462)" fill="url(#linear-gradient)"/>
+    <path id="Shape-2" data-name="Shape" d="M2.8,5.812V1.4A1.386,1.386,0,0,0,1.4,0,1.386,1.386,0,0,0,0,1.4v4.41a1.386,1.386,0,0,0,1.4,1.4A1.386,1.386,0,0,0,2.8,5.812Z" transform="translate(18.598 0.205)" fill="url(#linear-gradient)"/>
+    <path id="Shape-3" data-name="Shape" d="M0,1.4v4.41a1.386,1.386,0,0,0,1.4,1.4,1.386,1.386,0,0,0,1.4-1.4V1.4A1.386,1.386,0,0,0,1.4,0,1.386,1.386,0,0,0,0,1.4Z" transform="translate(18.598 32.65)" fill="url(#linear-gradient)"/>
+    <path id="Shape-4" data-name="Shape" d="M2.393,5.5,5.5,2.393A1.4,1.4,0,0,0,3.521.41L.41,3.521A1.4,1.4,0,0,0,.41,5.5a1.369,1.369,0,0,0,.991.41,1.369,1.369,0,0,0,.991-.41Z" transform="translate(28.513 5.607)" fill="url(#linear-gradient)"/>
+    <path id="Shape-5" data-name="Shape" d="M.41,5.5a1.369,1.369,0,0,0,.991.41,1.427,1.427,0,0,0,.991-.41L5.5,2.393A1.4,1.4,0,0,0,3.521.41L.41,3.521A1.4,1.4,0,0,0,.41,5.5Z" transform="translate(5.573 28.547)" fill="url(#linear-gradient)"/>
+    <path id="Shape-6" data-name="Shape" d="M7.214,1.4A1.386,1.386,0,0,0,5.812,0H1.4A1.386,1.386,0,0,0,0,1.4,1.386,1.386,0,0,0,1.4,2.8h4.41A1.408,1.408,0,0,0,7.214,1.4Z" transform="translate(32.615 18.632)" fill="url(#linear-gradient)"/>
+    <path id="Shape-7" data-name="Shape" d="M1.4,2.8h4.41a1.386,1.386,0,0,0,1.4-1.4A1.386,1.386,0,0,0,5.812,0H1.4A1.386,1.386,0,0,0,0,1.4,1.408,1.408,0,0,0,1.4,2.8Z" transform="translate(0.171 18.632)" fill="url(#linear-gradient)"/>
+    <path id="Shape-8" data-name="Shape" d="M4.513,5.915A1.427,1.427,0,0,0,5.5,5.5a1.4,1.4,0,0,0,0-1.983L2.393.41A1.4,1.4,0,0,0,.41,2.393L3.521,5.5a1.427,1.427,0,0,0,.991.41Z" transform="translate(28.513 28.547)" fill="url(#linear-gradient)"/>
+    <path id="Shape-9" data-name="Shape" d="M5.5,5.5a1.4,1.4,0,0,0,0-1.983L2.393.41A1.4,1.4,0,0,0,.41,2.393L3.521,5.5A1.4,1.4,0,0,0,5.5,5.5Z" transform="translate(5.573 5.607)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

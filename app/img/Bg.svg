@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="455" height="320" viewBox="0 0 455 320">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+    <filter id="Mask" x="0" y="0" width="455" height="320" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Mask-2" x="0" y="0" width="455" height="320" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Mask)">
+        <rect id="Mask-3" data-name="Mask" width="335" height="200" rx="10" fill="url(#linear-gradient)"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Bg" transform="translate(60 40)">
+    <g transform="matrix(1, 0, 0, 1, -60, -40)" filter="url(#Mask-2)">
+      <rect id="Mask-4" data-name="Mask" width="335" height="200" rx="10" transform="translate(60 40)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Bg-2" data-name="Bg" clip-path="url(#clip-path)">
+      <rect id="Rectangle" width="800" height="600" rx="100" transform="translate(-342.736 -460) rotate(45)" fill="rgba(37,143,224,0.2)"/>
+      <rect id="Rectangle-2" data-name="Rectangle" width="800" height="400" rx="100" transform="translate(152.843 -380) rotate(45)" fill="rgba(37,143,224,0.2)"/>
+      <rect id="Rectangle-3" data-name="Rectangle" width="800" height="400" rx="100" transform="translate(410.843 -6) rotate(45)" fill="rgba(37,143,224,0.1)"/>
+      <rect id="Rectangle-4" data-name="Rectangle" width="800" height="400" rx="100" transform="translate(-134 626.685) rotate(-45)" fill="rgba(37,143,224,0.2)"/>
+    </g>
+  </g>
+</svg>

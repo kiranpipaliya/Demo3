@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="370" height="96" viewBox="0 0 370 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+    <filter id="Rectangle_7" x="0" y="28" width="35" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7-2" x="100" y="1" width="35" height="94" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7-3" x="200" y="10" width="35" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7-4" x="300" y="27" width="35" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="yeargraph" transform="translate(15)">
+    <rect id="Rectangle_7-5" data-name="Rectangle 7" width="5" height="61" rx="2.5" transform="translate(25 14)" fill="#eee"/>
+    <rect id="Rectangle_7-6" data-name="Rectangle 7" width="5" height="75" rx="2.5" transform="translate(50)" fill="#eee"/>
+    <rect id="Rectangle_7-7" data-name="Rectangle 7" width="5" height="55" rx="2.5" transform="translate(75 20)" fill="#eee"/>
+    <g transform="matrix(1, 0, 0, 1, -15, 0)" filter="url(#Rectangle_7)">
+      <rect id="Rectangle_7-8" data-name="Rectangle 7" width="5" height="38" rx="2.5" transform="translate(15 38)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Rectangle_7-9" data-name="Rectangle 7" width="5" height="75" rx="2.5" transform="translate(125)" fill="#eee"/>
+    <rect id="Rectangle_7-10" data-name="Rectangle 7" width="5" height="55" rx="2.5" transform="translate(150 20)" fill="#eee"/>
+    <rect id="Rectangle_7-11" data-name="Rectangle 7" width="5" height="38" rx="2.5" transform="translate(175 37)" fill="#eee"/>
+    <g transform="matrix(1, 0, 0, 1, -15, 0)" filter="url(#Rectangle_7-2)">
+      <rect id="Rectangle_7-12" data-name="Rectangle 7" width="5" height="64" rx="2.5" transform="translate(115 11)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Rectangle_7-13" data-name="Rectangle 7" width="5" height="44" rx="2.5" transform="translate(225 31)" fill="#eee"/>
+    <rect id="Rectangle_7-14" data-name="Rectangle 7" width="5" height="64" rx="2.5" transform="translate(250 11)" fill="#eee"/>
+    <rect id="Rectangle_7-15" data-name="Rectangle 7" width="5" height="50" rx="2.5" transform="translate(275 25)" fill="#eee"/>
+    <g transform="matrix(1, 0, 0, 1, -15, 0)" filter="url(#Rectangle_7-3)">
+      <rect id="Rectangle_7-16" data-name="Rectangle 7" width="5" height="55" rx="2.5" transform="translate(215 20)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="Rectangle_7-17" data-name="Rectangle 7" width="5" height="55" rx="2.5" transform="translate(325 20)" fill="#eee"/>
+    <rect id="Rectangle_7-18" data-name="Rectangle 7" width="5" height="44" rx="2.5" transform="translate(350 31)" fill="#eee"/>
+    <g transform="matrix(1, 0, 0, 1, -15, 0)" filter="url(#Rectangle_7-4)">
+      <rect id="Rectangle_7-19" data-name="Rectangle 7" width="5" height="38" rx="2.5" transform="translate(315 37)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

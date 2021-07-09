@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2511.535" height="2853.617" viewBox="0 0 2511.535 2853.617">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M2321.932,132.531C1900.855,1.492,1510.784,1.492,1108.71,155.537S145.535,48.506,48.517,1.492s-.032,1387.49-.032,1387.49H2351.008S2743.009,263.569,2321.932,132.531Z" transform="translate(0.992 0.018)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Features" transform="translate(-6.381 -1.127)">
+    <g id="Grey_Bg" data-name="Grey Bg" transform="translate(16)">
+      <path id="Grey_Bg-2" data-name="Grey Bg" d="M-2290.606,132.859C-1869.529,1.82-1479.458,1.82-1077.384,155.865S-114.209,48.834-17.191,1.82-370.682,1122.31-370.682,1122.31h-1887S-2711.683,263.9-2290.606,132.859Z" transform="translate(2493.682 0.69)" fill="#f6f6f8"/>
+    </g>
+    <g id="Blue_Bg" data-name="Blue Bg" transform="translate(0 860)">
+      <path id="Mask-2" data-name="Mask" d="M2321.932,132.531C1900.855,1.492,1510.784,1.492,1108.71,155.537S145.535,48.506,48.517,1.492s-.032,1387.49-.032,1387.49H2351.008S2743.009,263.569,2321.932,132.531Z" transform="translate(0.992 0.018)" fill="url(#linear-gradient)"/>
+      <g id="Blue_Bg-2" data-name="Blue Bg" clip-path="url(#clip-path)">
+        <rect id="Rectangle" width="1600" height="800" rx="200" transform="translate(1186.157 -937) rotate(45)" fill="rgba(37,143,224,0.1)" opacity="0.5"/>
+        <rect id="Rectangle-2" data-name="Rectangle" width="1600" height="800" rx="200" transform="translate(698.157 435) rotate(45)" fill="rgba(37,143,224,0.1)" opacity="0.5"/>
+        <rect id="Rectangle-3" data-name="Rectangle" width="1600" height="800" rx="200" transform="translate(719.472 1448.371) rotate(-45)" fill="rgba(37,143,224,0.1)" opacity="0.5"/>
+        <rect id="Rectangle-4" data-name="Rectangle" width="1600" height="800" rx="200" transform="translate(465.157 -1262) rotate(45)" fill="rgba(37,143,224,0.1)" opacity="0.5"/>
+      </g>
+    </g>
+    <g id="White_Bg" data-name="White Bg" transform="translate(19 1769)">
+      <path id="Path_4" data-name="Path 4" d="M-341.012,24.744c-633,181-1257,235-1873,40s78,1021,78,1021l1886-99S291.988-156.256-341.012,24.744Z" transform="translate(2503.673)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

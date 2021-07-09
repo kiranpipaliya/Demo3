@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2440.327" height="1051.688" viewBox="0 0 2440.327 1051.688">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.849" x2="0.112" y2="1.052" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M571.3,1051.689V981.433H216.515s-543.213-1143,91.2-962,1259.814,235,1877.192,40-78.514,922-78.514,922h-91.878v70.256Z" transform="translate(0)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Contact_Bg" data-name="Contact Bg" transform="translate(-34.307 -5.312)">
+    <path id="Mask-2" data-name="Mask" d="M584,1040.689V981.433H216.515s-543.213-1143,91.2-962,1259.814,235,1877.192,40-78.514,922-78.514,922h-79.177v59.256Z" transform="translate(34.307 5.311)" fill="url(#linear-gradient)"/>
+    <g id="Contact_Bg-2" data-name="Contact Bg" transform="translate(34.307 5.311)" clip-path="url(#clip-path)">
+      <path id="Rectangle" d="M200.224-.224,1401.567-1.566a199.685,199.685,0,0,1,200,200l-.448,400.448c-.124,110.581-89.867,200.324-200.448,200.448L199.329,800.672a199.684,199.684,0,0,1-200-200l.448-400.448C-.1,89.643,89.643-.1,200.224-.224Z" transform="translate(1082.796 -662.312) rotate(45)" fill="rgba(37,143,224,0.1)"/>
+      <path id="Rectangle-2" data-name="Rectangle" d="M200.224-.224,1401.567-1.566a199.685,199.685,0,0,1,200,200l-.448,400.448c-.124,110.581-89.867,200.324-200.448,200.448L199.329,800.672a199.684,199.684,0,0,1-200-200l.448-400.448C-.1,89.643,89.643-.1,200.224-.224Z" transform="translate(593.704 709.689) rotate(45)" fill="rgba(37,143,224,0.1)"/>
+      <path id="Rectangle-3" data-name="Rectangle" d="M200.224.224,1401.567,1.566c110.58.124,200.324,89.867,200.448,200.448l.448,400.448a199.684,199.684,0,0,1-200,200L201.119,801.119C90.538,801,.795,711.252.671,600.672L.224,200.224A199.684,199.684,0,0,1,200.224.224Z" transform="translate(615.066 1723.06) rotate(-45)" fill="rgba(37,143,224,0.1)"/>
+      <path id="Rectangle-4" data-name="Rectangle" d="M200.224-.224,1401.567-1.566a199.685,199.685,0,0,1,200,200l-.448,400.448c-.124,110.581-89.867,200.324-200.448,200.448L199.329,800.672a199.684,199.684,0,0,1-200-200l.448-400.448C-.1,89.643,89.643-.1,200.224-.224Z" transform="translate(360.182 -987.312) rotate(45)" fill="rgba(37,143,224,0.1)"/>
+    </g>
+  </g>
+</svg>

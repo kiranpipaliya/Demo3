@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="220" viewBox="0 0 220 220">
+  <defs>
+    <filter id="Bg" x="0" y="0" width="220" height="220" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="20" result="blur"/>
+      <feFlood flood-color="#cedae4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7cd1f5"/>
+      <stop offset="1" stop-color="#1c80df"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(39 19)">
+    <g id="Circles">
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="8" height="8" rx="4" transform="translate(0 25)" fill="#1c80df"/>
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" width="8" height="8" rx="4" transform="translate(25 40)" fill="#1c80df"/>
+      <rect id="Rectangle_7-3" data-name="Rectangle 7" width="14" height="14" rx="7" transform="translate(105 90)" fill="#1c80df"/>
+      <rect id="Rectangle_7-4" data-name="Rectangle 7" width="8" height="8" rx="4" transform="translate(125 50)" fill="#1c80df"/>
+      <rect id="Rectangle_7-5" data-name="Rectangle 7" width="4" height="4" rx="2" transform="translate(125 30)" fill="#1c80df"/>
+      <rect id="Rectangle_7-6" data-name="Rectangle 7" width="4" height="4" rx="2" transform="translate(35 20)" fill="#1c80df"/>
+      <rect id="Rectangle_7-7" data-name="Rectangle 7" width="4" height="4" rx="2" transform="translate(75)" fill="#1c80df"/>
+      <rect id="Rectangle_7-8" data-name="Rectangle 7" width="4" height="4" rx="2" transform="translate(15 90)" fill="#1c80df"/>
+      <rect id="Rectangle_7-9" data-name="Rectangle 7" width="4" height="4" rx="2" transform="translate(75 140)" fill="#1c80df"/>
+    </g>
+    <g id="Bg-2" data-name="Bg" transform="translate(21 21)">
+      <g transform="matrix(1, 0, 0, 1, -60, -40)" filter="url(#Bg)">
+        <rect id="Bg-3" data-name="Bg" width="100" height="100" rx="50" transform="translate(60 40)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Love_Icon" data-name="Love Icon" transform="translate(51 54)">
+      <path id="Shape" d="M19.33,35.52C3.911,29.349-1.354,18,.287,9.463,1.382,3.7,5.45,0,10.646,0a15.606,15.606,0,0,1,9.2,3.532A15.764,15.764,0,0,1,28.971.068c5.2,0,9.23,3.668,10.359,9.36C40.971,17.9,35.74,29.211,20.355,35.52a1.332,1.332,0,0,1-1.025,0Z" transform="translate(0.191 0.206)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
